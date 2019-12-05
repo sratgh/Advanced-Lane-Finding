@@ -1,6 +1,6 @@
 # **Advanced Lane Finding Project**
 
-![Project video Part 4/5](out_challenge_video_4.gif)
+![Project video Part 4/5](https://github.com/sratgh/Advanced-Lane-Finding/blob/master/out_challenge_video_4.gif)
 
 ## Goals of the project
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
